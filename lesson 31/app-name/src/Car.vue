@@ -10,7 +10,7 @@
 <script>
 
 export default {
-    props: ['carName','carYear']
+    props: ['carName','carYear'],
 }
 
 </script>
